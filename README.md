@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Kelvin
 
-<!--
-**AstroKelvin1258/AstroKelvin1258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Artificial Intelligence Student (UK)  
+🚁 Drone & FPV Enthusiast  
+🤖 Computer Vision | YOLO | Edge AI  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python
+- Deep Learning
+- OpenCV
+- YOLOv8
+- Drone Data Collection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Links
+📸 Instagram: https://instagram.com/yourusername  
+💼 LinkedIn: https://linkedin.com/in/yourprofile  
+
+### 📂 Projects
+- 🚀 Real-time Drone Object Detection
+- 📊 Deep Learning Practice
+
+
