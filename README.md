@@ -13,7 +13,9 @@
 
 ### 🌐 Links
 📸 Instagram: https://instagram.com/yourusername  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
+💼 LinkedIn: www.linkedin.com/in/
+kelvin-boban-4598032b3
+
 
 ### 📂 Projects
 - 🚀 Real-time Drone Object Detection
