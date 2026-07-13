@@ -12,7 +12,7 @@
 - Drone Data Collection
 
 ### 🌐 Links
-📸 Instagram: https://instagram.com/yourusername  
+📸 Instagram: https://www.instagram.com/_astro_fpv_/
 💼 LinkedIn: www.linkedin.com/in/
 kelvin-boban-4598032b3
 
